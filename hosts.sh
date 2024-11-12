@@ -14,5 +14,3 @@ cat hosts | while read hostname; do
     match $hostname
 done
 
-echo "A cat was here looking for pancakes"
-
