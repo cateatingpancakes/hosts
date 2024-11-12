@@ -1,0 +1,2 @@
+./hosts_func.sh fmi.unibuc.ro 80.96.21.88 1.1.1.1 # OK
+./hosts_func.sh fmi.unibuc.ro 80.96.21.89 1.1.1.1 # BAD
